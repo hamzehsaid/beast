@@ -12,6 +12,7 @@ public class KharaWalk : MonoBehaviour
     
     void Start()
     {
+    khayal
         speed = Random.Range(minSpeed,maxSpeed);
     }
 
